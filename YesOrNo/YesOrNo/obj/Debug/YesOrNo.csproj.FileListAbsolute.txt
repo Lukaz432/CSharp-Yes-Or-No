@@ -1,0 +1,10 @@
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\bin\Debug\YesOrNo.exe.config
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\bin\Debug\YesOrNo.exe
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\bin\Debug\YesOrNo.pdb
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\obj\Debug\YesOrNo.csprojAssemblyReference.cache
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\obj\Debug\YesOrNo.Form1.resources
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\obj\Debug\YesOrNo.Properties.Resources.resources
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\obj\Debug\YesOrNo.csproj.GenerateResource.cache
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\obj\Debug\YesOrNo.csproj.CoreCompileInputs.cache
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\obj\Debug\YesOrNo.exe
+C:\Users\NASA\source\repos\YesOrNo\YesOrNo\obj\Debug\YesOrNo.pdb
